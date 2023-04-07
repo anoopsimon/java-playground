@@ -49,6 +49,13 @@
         <artifactId>selenium-shutterbug</artifactId>
         <version>1.6</version>
     </dependency>
+    <dependency>
+        <groupId>com.codeborne</groupId>
+        <artifactId>selenide</artifactId>
+        <version>6.13.0</version>
+    </dependency>
+
+
 
 
 

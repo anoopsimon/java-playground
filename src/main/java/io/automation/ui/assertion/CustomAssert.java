@@ -3,7 +3,7 @@ package io.automation.ui.assertion;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class Asssss
+public class CustomAssert
 {
         // Assertions for WebElement
         public static <T extends WebElement> io.automation.ui.assertion.MyAssert<T> assertThat(T actual) {
